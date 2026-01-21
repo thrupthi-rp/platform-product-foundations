@@ -20,6 +20,8 @@ across energy, public sector, and enterprise data products.
 
 - **[The S-Curve, Maturity, and Discontinuity](./s-curve-discontinuity.md)**
 How products decay in the gap between optimisation and reinvention and why patching often replaces redesign.
+- **[Platform Decision Boundaries](./Platform_Decision_Boundaries.md)**
+  Decision types and their implications for governance, including Two-Way Door and One-Way Door decisions
 
 ---
 
