@@ -59,12 +59,13 @@ When these decisions are rushed, teams inherit years of architectural debt disgu
 
 This repo is intentionally small and opinionated.
 - A decision classification framework for platforms and data
-- Heuristics for identifying irreversible commitments early
-- Questions to stress-test assumptions before locking them in \
+- Heuristics for identifying irreversible commitments 
+- Stress-test questions to surface long-term risk before decisions are locked in
+  (e.g. “If we had to migrate away from this data model in 18 months, what would the cost of exit be?”)
 - Guidance for applying deeper scrutiny without stalling delivery
 
 It is not a prescriptive process.
-It is a judgement aid.
+It is a **judgement aid**.
 
 ---
 
@@ -83,6 +84,7 @@ Use this framework:
 - During early discovery or architecture discussions
 - Before committing to foundational data or platform decisions
 - As a shared language betweek product, engineering, and governance roles
+- During pre-sales or early discovery to identify high-risk architectural commitments before delivery momentum sets in
 
 If a decision feels heavy, ask:
 
@@ -103,6 +105,9 @@ It is designed to evolve.
 
 **Status**
 
-This is working note.
+This is a working note.
 
-It evolves only when patterns repeat across multiple product or platform contexts. The intent is not to scale content, but to preserve judgement clarity over time. 
+It evolves only when patterns repeat across multiple product or platform contexts.
+The intent is not to scale content, but to preserve judgement clarity over time.
+
+This note is part of a broader set of working reflections shared under The Product Lens — exploring how product, platform, and governance decisions compound over time.
