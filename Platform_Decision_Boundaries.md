@@ -73,7 +73,8 @@ It is a **judgement aid**.
 
 This material is relevant for:
 - Product people working on platforms or data-heavy systems
-- Teams designing foundations intended to scale\Organisations navigation AI, privacy, and infrastructure trade-offs
+- Teams designing foundations intended to scale
+- Organisations navigation AI, privacy, and infrastructure trade-offs
 - Anyone responsible for decisions that outlive roadmaps and teams
 
 ---
