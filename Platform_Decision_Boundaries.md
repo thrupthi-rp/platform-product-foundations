@@ -115,7 +115,7 @@ This note is part of a broader set of working reflections shared under The Produ
 
 ---
 
-## The Strategic Decision Ledger (./Strategic_Decision_Ledger.xlsx.md) 
+## The Strategic Decision Ledger 
 > "Velocity matters, but velocity in the wrong direction is just a faster way to fail."
 
 I’ve integrated a governance layer into my tracking logic to ensure that high-risk decisions are met with high-conviction data.
