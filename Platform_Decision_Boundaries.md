@@ -112,3 +112,19 @@ It evolves only when patterns repeat across multiple product or platform context
 The intent is not to scale content, but to preserve judgement clarity over time.
 
 This note is part of a broader set of working reflections shared under The Product Lens — exploring how product, platform, and governance decisions compound over time.
+
+---
+
+## The Strategic Decision Ledger (./Strategic_Decision_Ledger.xlsx) 
+> "Velocity matters, but velocity in the wrong direction is just a faster way to fail."
+
+I’ve integrated a governance layer into my tracking logic to ensure that high-risk decisions are met with high-conviction data.
+
+### The Confidence-Risk Protocol
+| Decision Type | Confidence Level | Allowed Status | Logic |
+| :--- | :--- | :--- | :--- |
+| **One-Way Door** | < 7 | Discovery Only | Hard stop on 'Build' to prevent irreversible debt. |
+| **One-Way Door** | >= 7 | Build | Safe to proceed with high-conviction. |
+| **Two-Way Door** | Any | Build | High-velocity experimentation encouraged. |
+
+Confidenc scores are deliberately subjective but must be explicitly stated before irreversible commitments are allowed to progress.
