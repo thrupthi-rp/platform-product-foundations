@@ -109,13 +109,26 @@ It is designed to evolve.
 This is a working note.
 
 It evolves only when patterns repeat across multiple product or platform contexts.
-The intent is not to scale content, but to preserve judgement clarity over time.
+The intent is not to scale content, but to preserve judgment clarity over time.
+
+This document now includes its first active working artifact:
+The Strategic Decision Ledger.
+
+The ledger is not a completed framework.
+It is a live governance instrument used to:
+- Classify decisions by reversibility
+- Enforce confidence thresholds before irreversible commitments
+- Prevent high-velocity debt during early discovery and build phases
+
+The ledger evolves only when the same decision patterns recur across multiple platform or product contexts.
+No rules are added pre-emptively.
 
 This note is part of a broader set of working reflections shared under The Product Lens — exploring how product, platform, and governance decisions compound over time.
 
 ---
 
-## The Strategic Decision Ledger 
+## The Strategic Decision Ledger (Go to file Strategic_Decision_Ledger.xlsx)
+
 > "Velocity matters, but velocity in the wrong direction is just a faster way to fail."
 
 I’ve integrated a governance layer into my tracking logic to ensure that high-risk decisions are met with high-conviction data.
