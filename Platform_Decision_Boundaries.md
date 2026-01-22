@@ -140,4 +140,5 @@ I’ve integrated a governance layer into my tracking logic to ensure that high-
 | **One-Way Door** | >= 7 | Build | Safe to proceed with high-conviction. |
 | **Two-Way Door** | Any | Build | High-velocity experimentation encouraged. |
 
-Confidenc scores are deliberately subjective but must be explicitly stated before irreversible commitments are allowed to progress.
+**The Rule of Explicit Conviction:**
+Confidence scores are deliberately subjective but must be explicitly stated before irreversible commitments are allowed to progress.
